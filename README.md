@@ -12,7 +12,10 @@ This repository is to collect awesome papers on trustworthy machine learning (in
 
 
 #### Privacy
-
+1. DICE: Domain-attack Invariant Causal Learning for Improved Data Privacy Protection and Adversarial Robustness (KDD 2022) [[Paper link]](https://dl.acm.org/doi/abs/10.1145/3534678.3539242).
+2. PrivateSNN: Privacy-Preserving Spiking Neural Networks (AAAI 2022) [[Paper link]](https://arxiv.org/abs/2104.03414).
+3. Subspace Differential Privacy (AAAI 2022) [[Paper link]](https://arxiv.org/abs/2108.11527).
+4. Information Obfuscation of Graph Neural Networks (ICML 2021) [[Paper link]](https://arxiv.org/pdf/2009.13504.pdf).
 
 #### Interpretability
 
