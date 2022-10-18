@@ -19,6 +19,7 @@ This repository is to collect awesome papers on trustworthy machine learning (in
 5. Information Obfuscation of Graph Neural Networks (ICML 2021) [[Paper link]](https://arxiv.org/pdf/2009.13504.pdf).
 
 #### Interpretability
-
-
-#### Robustness
+1. Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism (ICML 2022) [[Paper link]](https://arxiv.org/abs/2201.12987).
+2. Interpretability in Graph Neural Networks (Book 2022) [[Paper link]](https://graph-neural-networks.github.io/static/file/chapter7.pdf).
+3. Interpretable Machine Learning for Privacy-Preserving Pervasive Systems (IEEE Pervasive Computing) [[Paper link]](https://ieeexplore.ieee.org/document/8962339).
+4. Concept Whitening for Interpretable Image Recognition (Nature Machine Intelligence 2020) [[Paper link]](https://arxiv.org/pdf/2002.01650.pdf).
