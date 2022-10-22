@@ -22,6 +22,7 @@ This repository is to collect awesome papers on trustworthy machine learning (in
 3. Subspace Differential Privacy (AAAI 2022) [[Paper link]](https://arxiv.org/abs/2108.11527).
 4. Privacy for Free: How does Dataset Condensation Help Privacy? (ICML 2022) [[Paper link]](http://export.arxiv.org/pdf/2206.00240).
 5. Information Obfuscation of Graph Neural Networks (ICML 2021) [[Paper link]](https://arxiv.org/pdf/2009.13504.pdf).
+6. How Does Data Augmentation Affect Privacy in Machine Learning? (AAAI 2021) [[Paper link]](https://arxiv.org/pdf/2007.10567.pdf).
 
 #### Interpretability
 1. Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism (ICML 2022) [[Paper link]](https://arxiv.org/abs/2201.12987).
