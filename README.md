@@ -24,7 +24,7 @@ This repository aims to collect awesome papers on trustworthy machine learning (
 4. Privacy for Free: How does Dataset Condensation Help Privacy? (ICML 2022) [[Paper]](http://export.arxiv.org/pdf/2206.00240).
 5. Information Obfuscation of Graph Neural Networks (ICML 2021) [[Paper]](https://arxiv.org/pdf/2009.13504.pdf).
 6. How Does Data Augmentation Affect Privacy in Machine Learning? (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2007.10567.pdf).
-7. Adversarial Attacks on Graph Neural Networks via Meta Learning (ICLR 2019) [[Paper][Code]](https://arxiv.org/pdf/1902.08412.pdf) (https://arxiv.org/pdf/1902.08412.pdf](https://github.com/danielzuegner/gnn-meta-attack).
+7. Adversarial Attacks on Graph Neural Networks via Meta Learning (ICLR 2019) [[Paper]](https://arxiv.org/pdf/1902.08412.pdf)[[Code]] (https://github.com/danielzuegner/gnn-meta-attack).
 
 #### Interpretability
 1. Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism (ICML 2022) [[Paper]](https://arxiv.org/abs/2201.12987).
