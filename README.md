@@ -2,7 +2,7 @@
 This repository aims to collect awesome papers on trustworthy machine learning (including paper links, and code links).
 
 #### Survey
-1. When Machine Learning Meets Privacy: A Survey and Outlook (ACM Computing 2020) [[Paper link]](https://arxiv.org/pdf/2011.11819.pdf).
+1. When Machine Learning Meets Privacy: A Survey and Outlook (ACM Computing 2020) [[Paper]](https://arxiv.org/pdf/2011.11819.pdf).
 2. A Survey on Privacy in Social Media: Identification, Mitigation, and Applications (ACM Transactions on Data Science 2020) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3343038).
 3. A Survey on Security Threats and Defensive techniques of Machine Learning a data driven pespective (IEEE access 2018) [[Paper]](https://ieeexplore.ieee.org/abstract/document/8290925). 
 4. Security of Neural Networks from Hardware Perspective: A Survey and Beyond (ASP-DAC 2021) [[Paper]](https://ieeexplore.ieee.org/abstract/document/9371637?casa_token=mjuDN_p4zlEAAAAA:1M--ahNOyo5OILtsqSFoycdzTqWqJg44fgFFTtyxNMaWG5mHrxRYaw9jbXc5ffUhpIVJBWLraw).
