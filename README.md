@@ -30,3 +30,5 @@ This repository aims to collect awesome papers on trustworthy machine learning (
 2. Interpretability in Graph Neural Networks (Book 2022) [[Paper]](https://graph-neural-networks.github.io/static/file/chapter7.pdf).
 3. Interpretable Machine Learning for Privacy-Preserving Pervasive Systems (IEEE Pervasive Computing) [[Paper]](https://ieeexplore.ieee.org/document/8962339).
 4. Concept Whitening for Interpretable Image Recognition (Nature Machine Intelligence 2020) [[Paper]](https://arxiv.org/pdf/2002.01650.pdf,https://github.com/danielzuegner/gnn-meta-attack).
+5. Explaining Machine Learning Predictions: State-of-the-art, Challenges, Opportunities (NIPs 2020) [[Slides]](https://explainml-tutorial.github.io/assets/files/explainml-tutorial-neurips20.pdf).
+
