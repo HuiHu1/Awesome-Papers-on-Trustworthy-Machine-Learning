@@ -24,6 +24,7 @@ This repository aims to collect awesome papers ot talks on trustworthy machine l
 4. Information Obfuscation of Graph Neural Networks (ICML 2021) [[Paper]](https://arxiv.org/pdf/2009.13504.pdf).
 5. How Does Data Augmentation Affect Privacy in Machine Learning? (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2007.10567.pdf).
 6. Adversarial Attacks on Graph Neural Networks via Meta Learning (ICLR 2019) [[Paper]](https://arxiv.org/pdf/1902.08412.pdf) [[Code]](https://github.com/danielzuegner/gnn-meta-attack).
+7. Masked Autoencoders Are Scalable Vision Learners (CVPR 2022) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf).
 
 #### Interpretability
 1. Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism (ICML 2022) [[Paper]](https://arxiv.org/abs/2201.12987).
