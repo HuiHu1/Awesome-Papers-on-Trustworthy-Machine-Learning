@@ -21,10 +21,11 @@ This repository aims to collect awesome papers ot talks on trustworthy machine l
 1. DICE: Domain-attack Invariant Causal Learning for Improved Data Privacy Protection and Adversarial Robustness (KDD 2022) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539242).
 2. PrivateSNN: Privacy-Preserving Spiking Neural Networks (AAAI 2022) [[Paper]](https://arxiv.org/abs/2104.03414).
 3. Subspace Differential Privacy (AAAI 2022) [[Paper]](https://arxiv.org/abs/2108.11527).
-4. Information Obfuscation of Graph Neural Networks (ICML 2021) [[Paper]](https://arxiv.org/pdf/2009.13504.pdf).
-5. How Does Data Augmentation Affect Privacy in Machine Learning? (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2007.10567.pdf).
-6. Adversarial Attacks on Graph Neural Networks via Meta Learning (ICLR 2019) [[Paper]](https://arxiv.org/pdf/1902.08412.pdf) [[Code]](https://github.com/danielzuegner/gnn-meta-attack).
-7. Masked Autoencoders Are Scalable Vision Learners (CVPR 2022) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf).
+4. Masked Autoencoders Are Scalable Vision Learners (CVPR 2022) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf).
+5. Information Obfuscation of Graph Neural Networks (ICML 2021) [[Paper]](https://arxiv.org/pdf/2009.13504.pdf).
+6. How Does Data Augmentation Affect Privacy in Machine Learning? (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2007.10567.pdf).
+7. Adversarial Attacks on Graph Neural Networks via Meta Learning (ICLR 2019) [[Paper]](https://arxiv.org/pdf/1902.08412.pdf) [[Code]](https://github.com/danielzuegner/gnn-meta-attack).
+8. Graph Embedding for Recommendation against Attribute Inference Attacks (WWW 2021) [[Paper]]([https://arxiv.org/pdf/2007.10567.pdf](https://arxiv.org/pdf/2101.12549.pdf)).
 
 #### Interpretability
 1. Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism (ICML 2022) [[Paper]](https://arxiv.org/abs/2201.12987).
