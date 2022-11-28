@@ -15,7 +15,7 @@ This repository aims to collect awesome papers or talks on trustworthy machine l
 3. Learning Fair Representation via Distributional Contrastive Disentanglement (KDD 2022) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539232?casa_token=JaW7DTi1U9gAAAAA:Vcck-pl6AK_9-hbuMe3qfTkjPx4Mal0jD4VvdHcYKYCxbuEkshkrUpb9J1wXZjfD5FWwe8Af8XTa).
 4. Algorithmic Fairness on Graphs: Methods and Trends (KDD 2022) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3542599).
 5. Algorithmic Fairness Verification with Graphical Models (AAAI 2022) [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-4695.GhoshB.pdf).
-6. Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage (KDD 2022) [[Paper]](https://arxiv.org/pdf/2206.03426.pdf).
+6. Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage (KDD 2022) [[Paper]](https://arxiv.org/pdf/2206.03426.pdf)[[Code]](https://github.com/YuWVandy/FairVGNN).
 7. EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks (WWW 2022) [[Paper]](https://arxiv.org/pdf/2108.05233.pdf)[[Code]](https://github.com/yushundong/EDITS).
 
 #### Privacy (Attacks and Defenses)
