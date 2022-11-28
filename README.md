@@ -1,5 +1,5 @@
 #### Awesome-papers-on-trustworthy-machine-learning
-This repository aims to collect awesome papers ot talks on trustworthy machine learning (including paper links, and code links).
+This repository aims to collect awesome papers or talks on trustworthy machine learning (including paper links, and code links).
 
 #### Survey
 1. When Machine Learning Meets Privacy: A Survey and Outlook (ACM Computing 2020) [[Paper]](https://arxiv.org/pdf/2011.11819.pdf).
