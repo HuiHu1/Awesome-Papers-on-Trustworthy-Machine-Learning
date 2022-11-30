@@ -17,6 +17,7 @@ This repository aims to collect awesome papers or talks on trustworthy machine l
 5. Algorithmic Fairness Verification with Graphical Models (AAAI 2022) [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-4695.GhoshB.pdf).
 6. Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage (KDD 2022) [[Paper]](https://arxiv.org/pdf/2206.03426.pdf)[[Code]](https://github.com/YuWVandy/FairVGNN).
 7. EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks (WWW 2022) [[Paper]](https://arxiv.org/pdf/2108.05233.pdf)[[Code]](https://github.com/yushundong/EDITS).
+8. Achieving Fairness at No Utility Cost via Data Reweighing with Influence (ICML 2022) [[Paper]](https://arxiv.org/pdf/2202.00787.pdf)[[Code]](https://github.com/brandeis-machine-learning/influence-fairness).
 
 #### Privacy (Attacks and Defenses)
 1. DICE: Domain-attack Invariant Causal Learning for Improved Data Privacy Protection and Adversarial Robustness (KDD 2022) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539242).
