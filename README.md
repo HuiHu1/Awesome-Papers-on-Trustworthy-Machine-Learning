@@ -18,6 +18,10 @@ This repository aims to collect awesome papers or talks on trustworthy machine l
 6. Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage (KDD 2022) [[Paper]](https://arxiv.org/pdf/2206.03426.pdf)[[Code]](https://github.com/YuWVandy/FairVGNN).
 7. EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks (WWW 2022) [[Paper]](https://arxiv.org/pdf/2108.05233.pdf)[[Code]](https://github.com/yushundong/EDITS).
 8. Achieving Fairness at No Utility Cost via Data Reweighing with Influence (ICML 2022) [[Paper]](https://arxiv.org/pdf/2202.00787.pdf)[[Code]](https://github.com/brandeis-machine-learning/influence-fairness).
+9. Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure (NeurIPS 2022) [[Paper]](https://arxiv.org/pdf/2209.14107.pdf).
+10. Self-Supervised Fair Representation Learning without Demographics (NeurIPS 2022) [[Paper]](https://openreview.net/pdf?id=7TGpLKADODE).
+11. Pushing the limits of fairness impossibility: Who's the fairest of them all? (NeurIPS 2022) [[Paper]](https://openreview.net/pdf?id=bot35zOudq).
+12. Uncovering the Structural Fairness in Graph Contrastive Learning (NeurIPS 2022) [[Paper]](https://openreview.net/pdf?id=RJemsN3V_kt).
 
 #### Privacy (Attacks and Defenses)
 1. DICE: Domain-attack Invariant Causal Learning for Improved Data Privacy Protection and Adversarial Robustness (KDD 2022) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539242).
@@ -30,6 +34,7 @@ This repository aims to collect awesome papers or talks on trustworthy machine l
 8. Adversarial Attacks on Graph Neural Networks via Meta Learning (ICLR 2019) [[Paper]](https://arxiv.org/pdf/1902.08412.pdf) [[Code]](https://github.com/danielzuegner/gnn-meta-attack).
 9. FaceMAE: Privacy-Preserving Face Recognition via Masked Autoencoders (ICLR 2023) [[Paper]](https://arxiv.org/pdf/2205.11090.pdf) [[Code]](https://github.com/kaiwang960112/FaceMAE).
 10. GraphMAE: Self-Supervised Masked Graph Autoencoders (KDD 2022) [[Paper]](https://arxiv.org/pdf/2205.10803.pdf) [[Code]](https://github.com/THUDM/GraphMAE).
+11. ConfounderGAN: Protecting Image Data Privacy with Causal Confounder (NeurIPS 2022) [[Paper]](https://openreview.net/pdf?id=XxmOKCt8dO9).
 
 #### Interpretability
 1. Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism (ICML 2022) [[Paper]](https://arxiv.org/abs/2201.12987).
