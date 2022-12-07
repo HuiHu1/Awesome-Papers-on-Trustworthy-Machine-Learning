@@ -18,7 +18,7 @@ This repository aims to collect awesome papers or talks on trustworthy machine l
 6. Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage (KDD 2022) [[Paper]](https://arxiv.org/pdf/2206.03426.pdf)[[Code]](https://github.com/YuWVandy/FairVGNN).
 7. EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks (WWW 2022) [[Paper]](https://arxiv.org/pdf/2108.05233.pdf)[[Code]](https://github.com/yushundong/EDITS).
 8. Achieving Fairness at No Utility Cost via Data Reweighing with Influence (ICML 2022) [[Paper]](https://arxiv.org/pdf/2202.00787.pdf)[[Code]](https://github.com/brandeis-machine-learning/influence-fairness).
-9. Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure (NeurIPS 2022) [[Paper]](https://arxiv.org/pdf/2209.14107.pdf).
+9. Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure (NeurIPS 2022) [[Paper]](https://arxiv.org/pdf/2209.14107.pdf)[[Code]](https://github.com/googlebaba/DisC).
 10. Self-Supervised Fair Representation Learning without Demographics (NeurIPS 2022) [[Paper]](https://openreview.net/pdf?id=7TGpLKADODE).
 11. Pushing the limits of fairness impossibility: Who's the fairest of them all? (NeurIPS 2022) [[Paper]](https://openreview.net/pdf?id=bot35zOudq).
 12. Uncovering the Structural Fairness in Graph Contrastive Learning (NeurIPS 2022) [[Paper]](https://openreview.net/pdf?id=RJemsN3V_kt).
