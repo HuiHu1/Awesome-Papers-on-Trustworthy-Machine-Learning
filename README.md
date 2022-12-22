@@ -1,4 +1,3 @@
-#### Awesome-papers-on-trustworthy-machine-learning
 This repository aims to collect awesome papers or talks on trustworthy machine learning (including paper links, and code links).
 
 #### Survey
