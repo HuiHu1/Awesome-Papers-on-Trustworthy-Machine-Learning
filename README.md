@@ -39,8 +39,9 @@ This repository aims to collect awesome papers or talks on trustworthy machine l
 
 #### Interpretability
 1. Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism (ICML 2022) [[Paper]](https://arxiv.org/abs/2201.12987).
-2. Interpretability in Graph Neural Networks (Book 2022) [[Paper]](https://graph-neural-networks.github.io/static/file/chapter7.pdf).
-3. Interpretable Machine Learning for Privacy-Preserving Pervasive Systems (IEEE Pervasive Computing) [[Paper]](https://ieeexplore.ieee.org/document/8962339).
-4. Concept Whitening for Interpretable Image Recognition (Nature Machine Intelligence 2020) [[Paper]](https://arxiv.org/pdf/2002.01650.pdf,https://github.com/danielzuegner/gnn-meta-attack).
-5. Explaining Machine Learning Predictions: State-of-the-art, Challenges, Opportunities (NeurIPS 2020) [[Slides]](https://explainml-tutorial.github.io/assets/files/explainml-tutorial-neurips20.pdf).
-6. GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS 2019) [[Paper]](https://arxiv.org/pdf/1903.03894.pdf)[[Code]](https://github.com/RexYing/gnn-model-explainer).
+2. Hard Masking for Explaining Graph Neural Networks (ICLR 2021) [[Paper]](https://openreview.net/forum?id=uDN8pRAdsoC). 
+3. Interpretability in Graph Neural Networks (Book 2022) [[Paper]](https://graph-neural-networks.github.io/static/file/chapter7.pdf).
+4. Interpretable Machine Learning for Privacy-Preserving Pervasive Systems (IEEE Pervasive Computing) [[Paper]](https://ieeexplore.ieee.org/document/8962339).
+5. Concept Whitening for Interpretable Image Recognition (Nature Machine Intelligence 2020) [[Paper]](https://arxiv.org/pdf/2002.01650.pdf,https://github.com/danielzuegner/gnn-meta-attack).
+6. Explaining Machine Learning Predictions: State-of-the-art, Challenges, Opportunities (NeurIPS 2020) [[Slides]](https://explainml-tutorial.github.io/assets/files/explainml-tutorial-neurips20.pdf).
+7. GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS 2019) [[Paper]](https://arxiv.org/pdf/1903.03894.pdf)[[Code]](https://github.com/RexYing/gnn-model-explainer).
