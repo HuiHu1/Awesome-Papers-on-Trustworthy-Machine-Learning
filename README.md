@@ -45,5 +45,5 @@ This repository aims to collect awesome papers or talks on trustworthy machine l
 4. Interpretable Machine Learning for Privacy-Preserving Pervasive Systems (IEEE Pervasive Computing) [[Paper]](https://ieeexplore.ieee.org/document/8962339).
 5. Concept Whitening for Interpretable Image Recognition (Nature Machine Intelligence 2020) [[Paper]](https://arxiv.org/pdf/2002.01650.pdf,https://github.com/danielzuegner/gnn-meta-attack).
 6. Explaining Machine Learning Predictions: State-of-the-art, Challenges, Opportunities (NeurIPS 2020) [[Slides]](https://explainml-tutorial.github.io/assets/files/explainml-tutorial-neurips20.pdf).
-7. GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS 2019) [[Paper]](https://arxiv.org/pdf/1903.03894.pdf)[[Code]](https://github.com/RexYing/gnn-model-explainer).
-8. Generative Causal Explanations for Graph Neural Networks (ICML 2021) [[Paper]](https://proceedings.mlr.press/v139/lin21d/lin21d.pdf).
+7. GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS 2019) [[Paper]](https://arxiv.org/pdf/1903.03894.pdf)[[Code]](https://github.com/RexYing/gnn-model-explainer).  
+8. Generative Causal Explanations for Graph Neural Networks (ICML 2021) [[Paper]](https://proceedings.mlr.press/v139/lin21d/lin21d.pdf)[[Code]](https://github.com/wanyu-lin/ICML2021-Gem).
