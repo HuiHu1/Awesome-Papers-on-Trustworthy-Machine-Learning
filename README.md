@@ -22,6 +22,7 @@ This repository aims to collect awesome papers or talks on trustworthy machine l
 11. Pushing the limits of fairness impossibility: Who's the fairest of them all? (NeurIPS 2022)[[Paper]](https://openreview.net/pdf?id=bot35zOudq).
 12. Uncovering the Structural Fairness in Graph Contrastive Learning (NeurIPS 2022)[[Paper]](https://openreview.net/pdf?id=RJemsN3V_kt).
 13. Flexibly Fair Representation Learning by Disentanglement (ICML 2019)[[Paper]](https://arxiv.org/pdf/1906.02589.pdf).
+14. Feature-Level Debiased Natural Language Understanding (AAAI 2023)[[Paper]](https://arxiv.org/pdf/2212.05421.pdf).
 
 #### Privacy (Attacks and Defenses)
 1. DICE: Domain-attack Invariant Causal Learning for Improved Data Privacy Protection and Adversarial Robustness (KDD 2022)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539242).
