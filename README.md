@@ -33,10 +33,11 @@ This repository aims to collect awesome papers or talks on trustworthy machine l
 6. How Does Data Augmentation Affect Privacy in Machine Learning? (AAAI 2021)[[Paper]](https://arxiv.org/pdf/2007.10567.pdf).
 7. Graph Embedding for Recommendation against Attribute Inference Attacks (WWW 2021)[[Paper]](https://arxiv.org/pdf/2101.12549.pdf)).
 8. Adversarial Attacks on Graph Neural Networks via Meta Learning (ICLR 2019)[[Paper]](https://arxiv.org/pdf/1902.08412.pdf) [[Code]](https://github.com/danielzuegner/gnn-meta-attack).
-9. FaceMAE: Privacy-Preserving Face Recognition via Masked Autoencoders (ICLR 2023)[[Paper]](https://arxiv.org/pdf/2205.11090.pdf) [[Code]](https://github.com/kaiwang960112/FaceMAE).
-10. GraphMAE: Self-Supervised Masked Graph Autoencoders (KDD 2022)[[Paper]](https://arxiv.org/pdf/2205.10803.pdf) [[Code]](https://github.com/THUDM/GraphMAE).
-11. ConfounderGAN: Protecting Image Data Privacy with Causal Confounder (NeurIPS 2022)[[Paper]](https://openreview.net/pdf?id=XxmOKCt8dO9).
-12. Alleviating Privacy Attacks via Causal Learning (ICML 2020)[[Paper]](http://proceedings.mlr.press/v119/tople20a/tople20a.pdf).
+9. Unnoticeable Backdoor Attacks on Graph Neural Networks (WWW 2023)[[Paper]](https://arxiv.org/pdf/2303.01263.pdf).
+10. FaceMAE: Privacy-Preserving Face Recognition via Masked Autoencoders (ICLR 2023)[[Paper]](https://arxiv.org/pdf/2205.11090.pdf) [[Code]](https://github.com/kaiwang960112/FaceMAE).
+11. GraphMAE: Self-Supervised Masked Graph Autoencoders (KDD 2022)[[Paper]](https://arxiv.org/pdf/2205.10803.pdf) [[Code]](https://github.com/THUDM/GraphMAE).
+12. ConfounderGAN: Protecting Image Data Privacy with Causal Confounder (NeurIPS 2022)[[Paper]](https://openreview.net/pdf?id=XxmOKCt8dO9).
+13. Alleviating Privacy Attacks via Causal Learning (ICML 2020)[[Paper]](http://proceedings.mlr.press/v119/tople20a/tople20a.pdf).
 
 #### Interpretability
 1. Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism (ICML 2022)[[Paper]](https://arxiv.org/abs/2201.12987).
