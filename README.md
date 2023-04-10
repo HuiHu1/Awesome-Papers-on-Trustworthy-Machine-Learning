@@ -47,3 +47,5 @@ This repository aims to collect awesome papers or talks on trustworthy machine l
 6. Explaining Machine Learning Predictions: State-of-the-art, Challenges, Opportunities (NeurIPS 2020)[[Slides]](https://explainml-tutorial.github.io/assets/files/explainml-tutorial-neurips20.pdf).
 7. GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS 2019)[[Paper]](https://arxiv.org/pdf/1903.03894.pdf)[[Code]](https://github.com/RexYing/gnn-model-explainer).  
 8. Generative Causal Explanations for Graph Neural Networks (ICML 2021)[[Paper]](https://proceedings.mlr.press/v139/lin21d/lin21d.pdf)[[Code]](https://github.com/wanyu-lin/ICML2021-Gem).
+9. Towards Self-Explainable Graph Neural Network (CIKM 2021)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482306?casa_token=z8ORG8cjfd8AAAAA:qUxGX52WexzY3Sh8WhvI1WMQYPuyUlvGzOxN3V1ZOzg8ZDrpsMzXO5HMwfgrLLgoHamwvMd3yDuS). 
+
