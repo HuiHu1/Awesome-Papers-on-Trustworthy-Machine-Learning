@@ -41,14 +41,16 @@ This repository aims to collect awesome papers or talks on trustworthy machine l
 13. FaceMAE: Privacy-Preserving Face Recognition via Masked Autoencoders (ICLR 2023)[[Paper]](https://arxiv.org/pdf/2205.11090.pdf) [[Code]](https://github.com/kaiwang960112/FaceMAE).
 
 #### Interpretability
-1. Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism (ICML 2022)[[Paper]](https://arxiv.org/abs/2201.12987).
-2. Interpretability in Graph Neural Networks (Book 2022)[[Paper]](https://graph-neural-networks.github.io/static/file/chapter7.pdf).
-3. Hard Masking for Explaining Graph Neural Networks (ICLR 2021)[[Paper]](https://openreview.net/forum?id=uDN8pRAdsoC). 
+1. GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS 2019)[[Paper]](https://arxiv.org/pdf/1903.03894.pdf)[[Code]](https://github.com/RexYing/gnn-model-explainer).  
+2. Concept Whitening for Interpretable Image Recognition (Nature Machine Intelligence 2020)[[Paper]](https://arxiv.org/pdf/2002.01650.pdf,https://github.com/danielzuegner/gnn-meta-attack).
+3. Explaining Machine Learning Predictions: State-of-the-art, Challenges, Opportunities (NeurIPS 2020)[[Slides]](https://explainml-tutorial.github.io/assets/files/explainml-tutorial-neurips20.pdf).
 4. Generative Causal Explanations for Graph Neural Networks (ICML 2021)[[Paper]](https://proceedings.mlr.press/v139/lin21d/lin21d.pdf)[[Code]](https://github.com/wanyu-lin/ICML2021-Gem).
 5. Towards Self-Explainable Graph Neural Network (CIKM 2021)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482306?casa_token=z8ORG8cjfd8AAAAA:qUxGX52WexzY3Sh8WhvI1WMQYPuyUlvGzOxN3V1ZOzg8ZDrpsMzXO5HMwfgrLLgoHamwvMd3yDuS). 
 6. Interpretable Machine Learning for Privacy-Preserving Pervasive Systems (IEEE Pervasive Computing)[[Paper]](https://ieeexplore.ieee.org/document/8962339).
-7. Concept Whitening for Interpretable Image Recognition (Nature Machine Intelligence 2020)[[Paper]](https://arxiv.org/pdf/2002.01650.pdf,https://github.com/danielzuegner/gnn-meta-attack).
-8. Explaining Machine Learning Predictions: State-of-the-art, Challenges, Opportunities (NeurIPS 2020)[[Slides]](https://explainml-tutorial.github.io/assets/files/explainml-tutorial-neurips20.pdf).
-9. GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS 2019)[[Paper]](https://arxiv.org/pdf/1903.03894.pdf)[[Code]](https://github.com/RexYing/gnn-model-explainer).  
+7. Hard Masking for Explaining Graph Neural Networks (ICLR 2021)[[Paper]](https://openreview.net/forum?id=uDN8pRAdsoC). 
+8. Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism (ICML 2022)[[Paper]](https://arxiv.org/abs/2201.12987).
+9. Interpretability in Graph Neural Networks (Book 2022)[[Paper]](https://graph-neural-networks.github.io/static/file/chapter7.pdf).
+
+
 
 
