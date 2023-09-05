@@ -1,12 +1,13 @@
 This repository aims to collect awesome papers or talks on trustworthy machine learning (including paper links, and code links).
 
 #### Survey
-1. When Machine Learning Meets Privacy: A Survey and Outlook (ACM Computing 2020)[[Paper]](https://arxiv.org/pdf/2011.11819.pdf).
-2. A Survey on Privacy in Social Media: Identification, Mitigation, and Applications (ACM Transactions on Data Science 2020)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3343038).
-3. A Survey on Security Threats and Defensive techniques of Machine Learning a data driven pespective (IEEE access 2018)[[Paper]](https://ieeexplore.ieee.org/abstract/document/8290925). 
-4. Security of Neural Networks from Hardware Perspective: A Survey and Beyond (ASP-DAC 2021)[[Paper]](https://ieeexplore.ieee.org/abstract/document/9371637?casa_token=mjuDN_p4zlEAAAAA:1M--ahNOyo5OILtsqSFoycdzTqWqJg44fgFFTtyxNMaWG5mHrxRYaw9jbXc5ffUhpIVJBWLraw).
-5. Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection (KDD 2022)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3542597?casa_token=pwDMMKIOSJUAAAAA:nN-GrlX_rUS-9RpmZv6Y0kwp3ZNV8X2GTWtBr_DW0S93tG8IafiRxRKGktW4i1ShH8hDwzUw-X8c).
-6. Differential Privacy and Machine Learning - a Survey and Review (arXiv preprint)[[Paper]](https://arxiv.org/pdf/1412.7584.pdf). 
+1. A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications (arXiv preprint 2023)[[Paper]](https://arxiv.org/pdf/2308.16375.pdf). 
+2. Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection (KDD 2022)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3542597?casa_token=pwDMMKIOSJUAAAAA:nN-GrlX_rUS-9RpmZv6Y0kwp3ZNV8X2GTWtBr_DW0S93tG8IafiRxRKGktW4i1ShH8hDwzUw-X8c).
+3. When Machine Learning Meets Privacy: A Survey and Outlook (ACM Computing 2020)[[Paper]](https://arxiv.org/pdf/2011.11819.pdf).
+4. A Survey on Privacy in Social Media: Identification, Mitigation, and Applications (ACM Transactions on Data Science 2020)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3343038).
+5. A Survey on Security Threats and Defensive techniques of Machine Learning a data driven pespective (IEEE access 2018)[[Paper]](https://ieeexplore.ieee.org/abstract/document/8290925). 
+6. Security of Neural Networks from Hardware Perspective: A Survey and Beyond (ASP-DAC 2021)[[Paper]](https://ieeexplore.ieee.org/abstract/document/9371637?casa_token=mjuDN_p4zlEAAAAA:1M--ahNOyo5OILtsqSFoycdzTqWqJg44fgFFTtyxNMaWG5mHrxRYaw9jbXc5ffUhpIVJBWLraw).
+7. Differential Privacy and Machine Learning - a Survey and Review (arXiv preprint 2014)[[Paper]](https://arxiv.org/pdf/1412.7584.pdf). 
 
 #### Fairness
 1. On Structural Explanation of Bias in Graph Neural Networks (KDD 2022)[[Paper]](https://arxiv.org/pdf/2206.12104.pdf)[[Code]](https://github.com/yushundong/REFEREE).
