@@ -8,7 +8,7 @@ This repository aims to collect awesome papers or talks on trustworthy machine l
 5. Security of Neural Networks from Hardware Perspective: A Survey and Beyond (ASP-DAC 2021)[[Paper]](https://ieeexplore.ieee.org/abstract/document/9371637?casa_token=mjuDN_p4zlEAAAAA:1M--ahNOyo5OILtsqSFoycdzTqWqJg44fgFFTtyxNMaWG5mHrxRYaw9jbXc5ffUhpIVJBWLraw).
 6. Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection (KDD 2022)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3542597?casa_token=pwDMMKIOSJUAAAAA:nN-GrlX_rUS-9RpmZv6Y0kwp3ZNV8X2GTWtBr_DW0S93tG8IafiRxRKGktW4i1ShH8hDwzUw-X8c).
 7. A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications (arXiv preprint 2023)[[Paper]](https://arxiv.org/pdf/2308.16375.pdf).
-8. Responsible AI for Generative AI in Practice: Lessons Learned and Open Challenges (ICML 2023) [[Slide]](https://icml.cc/virtual/2023/tutorial/21553)[[Video]](https://icml.cc/virtual/2023/tutorial/21553).
+8. Responsible AI for Generative AI in Practice: Lessons Learned and Open Challenges (ICML 2023) [[Slide]](https://github.com/HuiHu1/Awesome-Papers-on-Trustworthy-Machine-Learning/blob/main/Trustworthy%20Generative%20AI_%20ICML'23%20Tutorial.pdf)[[Video]](https://icml.cc/virtual/2023/tutorial/21553).
 
 #### Fairness
 1. Flexibly Fair Representation Learning by Disentanglement (ICML 2019)[[Paper]](https://arxiv.org/pdf/1906.02589.pdf).
