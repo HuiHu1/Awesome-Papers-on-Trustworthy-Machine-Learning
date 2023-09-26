@@ -39,6 +39,7 @@ This repository aims to collect awesome papers or talks on trustworthy machine l
 11. ConfounderGAN: Protecting Image Data Privacy with Causal Confounder (NeurIPS 2022)[[Paper]](https://openreview.net/pdf?id=XxmOKCt8dO9).
 12. Unnoticeable Backdoor Attacks on Graph Neural Networks (WWW 2023)[[Paper]](https://arxiv.org/pdf/2303.01263.pdf).
 13. FaceMAE: Privacy-Preserving Face Recognition via Masked Autoencoders (ICLR 2023)[[Paper]](https://arxiv.org/pdf/2205.11090.pdf) [[Code]](https://github.com/kaiwang960112/FaceMAE).
+14. Learning-augmented private algorithms for multiple quantile release (ICML 2023)[[Paper]](https://openreview.net/pdf?id=Fgn23Fsmtv).
 
 #### Interpretability
 1. GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS 2019)[[Paper]](https://arxiv.org/pdf/1903.03894.pdf)[[Code]](https://github.com/RexYing/gnn-model-explainer).  
